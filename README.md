@@ -57,6 +57,10 @@ password: 1234
    login id: 5566
    password: Aruj@123
 
+# Note
+#   Admin can add the faculty and student .Initially Enrollment Id is id and password for student and Employee id is id and password for faculty.
+#   After that they can change password accordingly.
+
 ## For Any Doubt Fell Free To Contact Me 🚀
 
 - [Linkedin](https://www.linkedin.com/in/abhishek-ojha-625500203/)
